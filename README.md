@@ -1,5 +1,7 @@
 # BIM
-Working towards Digital Transformation in Civil Engineering, using  Open Standards
+Working towards Digital Transformation in Civil Engineering, using  Open Standards.
+
+1. [BIM modelling with python](IfcOpenShell)
 
 [FreeCAD](FREECAD.md)
 
